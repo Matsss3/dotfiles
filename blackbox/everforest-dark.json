@@ -1,0 +1,25 @@
+{
+  "name": "Everforest Dark",
+  "comment": "Everforest Dark Color Scheme",
+  "foreground-color": "#eae4ca",
+  "background-color": "#2d353b",
+  "use-theme-colors": true,
+  "palette": [
+    "#3d484d",
+    "#e67e80",
+    "#a7c080",
+    "#dbbc7f",
+    "#7fbbb3",
+    "#d699b6",
+    "#83c092",
+    "#d3c6aa",
+    "#5c6a72",
+    "#eb9799",
+    "#b8cc99",
+    "#e6d0a5",
+    "#a9d1cc",
+    "#e0b2c8",
+    "#a2d0ad",
+    "#ddd8be"
+  ]
+}
